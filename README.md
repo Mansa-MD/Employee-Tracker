@@ -15,6 +15,8 @@ CLI Content Management System to manage a company's employees. The application l
 
 # Usage
 ![](usage_example.gif)
+
+* Video Link: https://drive.google.com/drive/folders/1dxmh8Nx8aT1O9lgyj_2Dfci63MXhN6gd?usp=sharing
 # License
 MIT License
 
